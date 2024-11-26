@@ -41,7 +41,7 @@ body {
   /* Main content styles */
   main {
     padding: 2rem;
-    background-image: url("slider_2.jpg");
+    background-image: url("slider_1.jpg");
     background-size: cover;
     height: 600px;
   }
@@ -118,7 +118,7 @@ body {
     background: #ff4583;
   }
   .Home {
-    background-image: url("slider_1.jpg");
+    background-image: url("slider_2.jpg");
     color: black;
     height: 600px;
     width: 100%;
